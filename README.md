@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Principles of Data Visualization Jupyter Notebook | [Link1](./intro-to-pandas-1.ipynb) [Link2](./intro-to-pandas-2.ipynb)|
+| Lesson | Introduction to Pandas | [Link1](./intro-to-pandas-1.ipynb) [Link2](./intro-to-pandas-2.ipynb)|
 
 ---
 
@@ -18,10 +18,10 @@
 1. Explain the difference: Series vs DataFrame
 2. Describe basic characteristics of DataFrames
 3. Practice plotting with pandas
-4. Series axis 1 vs 0
-5. Understanding Pandas datatypes
-6. Selection of data (boolean filtering and masking)
-7. Basic plotting
+4. Understand series axis 1 vs 0
+5. Understand Pandas datatypes
+6. Select subsets of data (boolean filtering and masking)
+7. Perform basic plotting
 
 
 ---
