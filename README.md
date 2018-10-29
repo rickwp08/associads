@@ -30,7 +30,7 @@
 
 *Before this lesson(s), students should already be able to:*
 
-1. Have familiarty with base python
+1. Have familiarity with base python
 
 ---
 
