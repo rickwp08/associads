@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Introduction to Pandas | [Link1](./intro-to-pandas-1.ipynb) [Link2](./intro-to-pandas-2.ipynb)|
+| Lesson | Introduction to Pandas | [Link](./intro-to-pandas-starter-code.ipynb)|
 
 ---
 
@@ -16,13 +16,10 @@
 *After this lesson, students will be able to:*
 
 1. Explain the difference: Series vs DataFrame
-2. Describe basic characteristics of DataFrames
-3. Practice plotting with pandas
-4. Understand series axis 1 vs 0
-5. Understand Pandas datatypes
-6. Select subsets of data (boolean filtering and masking)
-7. Perform basic plotting
-
+1. Describe basic characteristics of DataFrames
+1. Select subsets of data (boolean filtering and masking)
+1. Perform basic EDA with sample statistics
+1. Perform advanced EDA with Split-Apply-Combine
 
 ---
 
@@ -38,7 +35,6 @@
 
 > **Total Time: 180 mins**
 
-I. **Part 1** (90 minutes total)
 - Introduction to Pandas 
 - Loading .csv Files
 - Exploring Your Data
@@ -46,16 +42,12 @@ I. **Part 1** (90 minutes total)
 - Dataframes vs. Series
 - Using `.info()`
 - Using `.describe()`
-
-
-II. **Part 2** (90 minutes total)
 - Pandas Indexing
-- Creating Dataframes
-- Checking Datatypes
 - Renaming and Assignment
-- Basic Plotting
 - Logical Filtering
 
 ---
 
 ## OPTIONAL: Resources for Practice and Learning
+- [Our dear Adi's wonderful repository of cheat sheets](https://github.com/AdiBro/Data-Science-Resources/tree/master/Cheat-Sheets)! Includes several pandas cheat sheets.
+- [pandas video series](https://www.dataschool.io/easier-data-analysis-with-pandas/). 
