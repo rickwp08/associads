@@ -35,7 +35,6 @@
 
 > **Total Time: 180 mins**
 
-I. **Part 1** (90 minutes total)
 - Introduction to Pandas 
 - Loading .csv Files
 - Exploring Your Data
@@ -43,14 +42,8 @@ I. **Part 1** (90 minutes total)
 - Dataframes vs. Series
 - Using `.info()`
 - Using `.describe()`
-
-
-II. **Part 2** (90 minutes total)
 - Pandas Indexing
-- Creating Dataframes
-- Checking Datatypes
 - Renaming and Assignment
-- Basic Plotting
 - Logical Filtering
 
 ---
